@@ -1,0 +1,4 @@
+interface:
+  display_name: "ModelHub"
+  short_description: "Find cost-effective VicroCode model routes across 1000+ models"
+  default_prompt: "Use $modelhub to choose, price, test, or integrate a VicroCode API Center model, and guide me through phone authorization if I need an API Key, usage, or logs."
