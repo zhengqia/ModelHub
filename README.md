@@ -1,3 +1,5 @@
+<img width="1152" height="360" alt="logo" src="https://github.com/user-attachments/assets/36c93e69-17f6-44ea-83fe-27a046962d68" />
+
 ## SKILL简介
 
 厌烦频繁切换线路？智能调用全球1000+模型线路，更便宜、更快速、更省事！
