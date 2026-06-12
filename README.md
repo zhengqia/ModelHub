@@ -13,7 +13,7 @@ ModelHub 是 VicroCode 大模型线路智能优化技能，可自动搜索低价
 ## 安装方法
 复制这个给Agent：
 ```
-请帮我安装这个技能：https://github.com/zhengqia/WebCraft
+请帮我安装这个技能：https://github.com/zhengqia/ModelHub
 ```
 
 ## VicroCode介绍
