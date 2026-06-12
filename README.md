@@ -27,7 +27,8 @@ VicroCode是一个轻量级应用部署代码托管平台，告别昂贵服务�
 
 并提供多种变现通道，你免费上传，我帮你卖！
 
-国内站：https://www.vicoco.cn/
-海外站：https://www.VicroCode.com
+国内站：https://www.vicoco.cn
+
+海外站：https://www.vicrocode.com
 
 
