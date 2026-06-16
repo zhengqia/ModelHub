@@ -1,0 +1,11 @@
+{
+  "name": "modelhub",
+  "version": "1.0.0",
+  "description": "Smart model route optimization for 1000+ global AI models. Search, compare pricing, test, and generate integration code for OpenAI/Anthropic/Gemini/image/video/embedding endpoints.",
+  "author": {
+    "name": "zhengqia"
+  },
+  "license": "MIT",
+  "keywords": ["model-routing", "api-gateway", "openai", "anthropic", "gemini", "pricing", "ai-model"],
+  "skills": "./"
+}
