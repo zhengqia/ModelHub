@@ -1,0 +1,21 @@
+{
+  "name": "zhengqia-modelhub",
+  "owner": {
+    "name": "zhengqia"
+  },
+  "metadata": {
+    "description": "VicroCode model route optimization and integration skill marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "modelhub",
+      "source": "./",
+      "description": "Smart model route optimization for 1000+ global AI models. Search, compare pricing, test, and generate integration code.",
+      "version": "1.0.0",
+      "category": "tools",
+      "tags": ["model-routing", "api-gateway", "pricing", "integration"],
+      "strict": false
+    }
+  ]
+}
