@@ -1,0 +1,11 @@
+{
+  "name": "modelhub",
+  "display_name": "ModelHub",
+  "description": "Smart model route optimization for 1000+ global AI models. Search, compare pricing, test, and generate integration code for OpenAI/Anthropic/Gemini/image/video/embedding endpoints through VicroCode API Center.",
+  "category": "Tools",
+  "tags": ["model-routing", "api-gateway", "openai", "anthropic", "gemini", "pricing", "integration", "ai-model"],
+  "version": "1.0.0",
+  "author": "zhengqia",
+  "homepage": "https://github.com/zhengqia/ModelHub",
+  "license": "MIT"
+}
