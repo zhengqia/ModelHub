@@ -12,11 +12,30 @@ ModelHub 是 VicroCode 大模型线路智能优化技能，可自动搜索低价
 
 <img width="2131" height="840" alt="image" src="https://github.com/user-attachments/assets/efb6f0c3-b4e4-4398-8ee3-b95a71900d64" />
 
+## About SKILL
+
+Tired of constantly switching between model providers? Smart routing across 1,000+ global model endpoints — cheaper, faster, and hassle-free!
+
+ModelHub is an intelligent model routing optimization skill for VicroCode. It automatically searches for low-cost, high-quality, and available model endpoints, covering 1,000+ models worldwide. It supports model selection, price lookup, route comparison, API key guidance, and code generation for OpenAI/Anthropic/Gemini/image/video/embedding integration.
+
+Once installed, just tell it which model you want to connect — it'll recommend the right model and quote you a price. No more frequent switching, no more topping up across multiple platforms, no technical expertise required. It auto-selects and guides you through setup.
+
+Supports installation in Claude Code, Codex, OpenClaw, Hermes, Coze, and other agents.
+
+
 ## 安装方法
 复制这个给Agent：
 ```
 请帮我安装这个技能：https://github.com/zhengqia/ModelHub
 ```
+
+## Installation
+Copy this to your Agent:
+```
+Please install this skill: https://github.com/zhengqia/ModelHub
+```
+
+
 
 ## VicroCode介绍
 VicroCode是一个轻量级应用部署代码托管平台，告别昂贵服务器和复杂的部署！
@@ -33,4 +52,16 @@ VicroCode是一个轻量级应用部署代码托管平台，告别昂贵服务�
 
 海外站：https://www.vicrocode.com
 
+## About VicroCode
+VicroCode is a lightweight application deployment and code hosting platform — say goodbye to expensive servers and complicated deployments!
+
+Deploy your applications for free and quickly validate project viability. It supports HTML + JS + CSS + Python + SQLite, and comes with practical tools like a web app manager, Python manager, and SQLite database online manager — zero barrier to entry.
+
+Achieve rapid code deployment and publishing without complex configuration, build a quality code distribution ecosystem, and help developers monetize their skills — letting every piece of code unleash its commercial and practical value.
+
+Ready to use out of the box — no deployment, no servers, no ICP filing, no payment gateway applications required. Supports integrating AI agents, general-purpose management systems, games, and more.
+
+It also offers multiple monetization channels — you upload for free, we help you sell!
+
+website:https://www.vicrocode.com
 
