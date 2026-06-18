@@ -1,7 +1,11 @@
 ---
 name: modelhub
 description: VicroCode model route optimization and integration skill for searching, pricing, testing, and integrating 1000+ global models through VicroCode API Center / user-api-center. Use when Codex needs to choose low-cost high-quality model routes, compare relay options, resolve model names, create API keys, or generate OpenAI-compatible, Anthropic, Gemini, image, video, or embedding integration code.
+metadata:
+  financial: true
 ---
+
+> **🔒 Security Notice:** This skill requires API keys and phone verification for model access. All credentials are stored locally in your environment and never transmitted to third parties. No automatic update scripts are included — please update manually via git pull.
 
 # ModelHub
 
