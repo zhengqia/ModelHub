@@ -4,7 +4,7 @@
 
 厌烦频繁切换线路？智能调用全球1000+模型线路，更便宜、更快速、更省事！
 
-ModelHub 是 VicroCode 大模型线路智能优化技能，可自动搜索低价、优质、可用的模型线路，覆盖全球 1000+ 模型，支持模型选择、价格查询、路由对比、API Key 指引和 OpenAI/Anthropic/Gemini/图片/视频/Embedding 接入代码生成。
+ModelHub 是 VicroCode 大模型线路智能优化技能，也可理解为 AI model gateway、model routing、AI 路由网关、模型中转、模型价格对比和 API pricing comparison 工具。它可自动搜索低价、优质、可用的模型线路，覆盖全球 1000+ 模型，支持模型选择、价格查询、路由对比、API Key 指引和 OpenAI/Anthropic/Gemini/图片/视频/Embedding 接入代码生成。
 
 安装后，只需对话说明要接入的模型即可，它就会给您模型选型和报价，无需频繁切换模型，无需多平台充值，无需懂技术，自动选型并引导您接入。
 
@@ -19,6 +19,8 @@ ModelHub 是 VicroCode 大模型线路智能优化技能，可自动搜索低价
 Tired of constantly switching between model providers? Smart routing across 1,000+ global model endpoints — cheaper, faster, and hassle-free!
 
 ModelHub is an intelligent model routing optimization skill for VicroCode. It automatically searches for low-cost, high-quality, and available model endpoints, covering 1,000+ models worldwide. It supports model selection, price lookup, route comparison, API key guidance, and code generation for OpenAI/Anthropic/Gemini/image/video/embedding integration.
+
+Common discovery terms: AI model gateway, model gateway, model routing, LLM routing, API gateway, model relay, AI relay, API pricing comparison, model pricing comparison, LLM pricing, OpenAI-compatible gateway, route optimization, provider comparison, model fallback, API key creation, and model integration for AI developers.
 
 Once installed, just tell it which model you want to connect — it'll recommend the right model and quote you a price. No more frequent switching, no more topping up across multiple platforms, no technical expertise required. It auto-selects and guides you through setup.
 

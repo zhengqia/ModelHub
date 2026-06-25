@@ -1,6 +1,6 @@
 ---
 name: modelhub
-description: VicroCode model route optimization and integration skill for searching, pricing, testing, and integrating 1000+ global models through VicroCode API Center / user-api-center. Use when Codex needs to choose low-cost high-quality model routes, compare relay options, resolve model names, create API keys, or generate OpenAI-compatible, Anthropic, Gemini, image, video, or embedding integration code.
+description: VicroCode AI model gateway, model routing, API pricing comparison, and integration skill for searching, pricing, testing, and integrating 1000+ global models through VicroCode API Center / user-api-center. Use when Codex or other AI developers need to choose low-cost high-quality model routes, compare relay options, resolve model names, create API keys, inspect API gateway pricing, compare model provider costs, or generate OpenAI-compatible, Anthropic, Gemini, image, video, or embedding integration code.
 metadata:
   financial: true
 ---
@@ -9,7 +9,11 @@ metadata:
 
 # ModelHub
 
-Version: `v2026-06-12.01`
+Version: `v2026-06-26.01`
+
+## Search Keywords
+
+AI model gateway, model gateway, model routing, AI routing, LLM routing, API gateway, model relay, AI relay, API pricing comparison, model pricing comparison, LLM pricing, OpenAI-compatible gateway, Anthropic gateway, Gemini gateway, VicroCode API Center, user-api-center, route optimization, provider comparison, model fallback, API key creation, model integration, coding model routes, image model routes, video model routes, embedding model routes.
 
 ## Core Rules
 
