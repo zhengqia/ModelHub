@@ -10,6 +10,8 @@ ModelHub 是 VicroCode 大模型线路智能优化技能，可自动搜索低价
 
 支持安装在Claude Code/Codex/OpenClaw/Hermes/Coze等多种智能体中。
 
+也可直接调用：https://www.vicoco.cn/user-api-center
+
 <img width="2131" height="840" alt="image" src="https://github.com/user-attachments/assets/efb6f0c3-b4e4-4398-8ee3-b95a71900d64" />
 
 ## About SKILL
